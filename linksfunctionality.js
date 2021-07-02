@@ -1,6 +1,6 @@
 function myFunction() {
-  var x = document.getElementById("signin");
-  var y = document.getElementById("signup");
+  var y = document.getElementById("signin");
+  var x = document.getElementById("signup");
 
   if (x.style.display === "none") {
     x.style.display = "block";

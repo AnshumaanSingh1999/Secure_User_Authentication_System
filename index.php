@@ -23,7 +23,7 @@
             .centre{
                 text-align: center;
             }
-            #signin{
+            #signup{
                 display: none;
             }
         </style>
