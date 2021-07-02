@@ -10,7 +10,7 @@ if($uname && $pass){
 		$query = "INSERT INTO details (username,password) VALUES ('$username','$password')";
 $result = mysqli_query($db_connection,$query);
 if($result) {
-$msg = "ID Created!";
+$msg = "ID Created Successfully.";
 } 
 else {
 $msg = "Renter Username or Password!";

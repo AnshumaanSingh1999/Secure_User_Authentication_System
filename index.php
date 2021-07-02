@@ -47,7 +47,7 @@
   
   <button type="submit" class="btn btn-default">Sign Up</button>
 </form>
- <button type="submit" name="signuppage" class="btn btn-default">Sign In</button>
+            <p>Already have an account? Click here to <a href='http://www.google.com' onclick='return check()'>Sign In</a>.</p>
             
            <?php
     
@@ -56,7 +56,7 @@
             if(isset($msg)){    ?>  
 
             
-            <div class="alert alert-success">
+            <div class="alert alert-success margin">
       <?php
     
         echo $msg;
