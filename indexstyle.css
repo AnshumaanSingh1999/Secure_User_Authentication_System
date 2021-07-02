@@ -1,0 +1,9 @@
+ .margin{
+                margin-top: 20px;
+            }
+            .centre{
+                text-align: center;
+            }
+            #signup{
+                display: none;
+            }

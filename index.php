@@ -5,7 +5,7 @@
     <head>
         <title>User Authentication System</title>
                 <script src="linksfunctionality.js"></script>
-
+<link rel="stylesheet" href="indexstyle.css">
         <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -17,16 +17,8 @@
                 margin-top: 180px;
                 width: 400px;
             }
-            .margin{
-                margin-top: 20px;
-            }
-            .centre{
-                text-align: center;
-            }
-            #signup{
-                display: none;
-            }
         </style>
+        
     </head>
     <body>
         <div class="container">
